@@ -1,19 +1,19 @@
-### Hi there 👋, I'm [Bravo Yeung](https://geekplayers.com)!
+### Hi there 👋, I'm [Andrew Yang](https://andrewyghub.github.io)!
 
-<a title="Hits" target="_blank" href="https://github.com/yanglr/yanglr"><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/authors/byavatar.jpg"></a>
+<a title="Hits" target="_blank" href="https://github.com/andrewyghub/andrewyghub"><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/andrewyghub/andrewyghub.github.io/assets/images/authors/byavatar.jpg"></a>
 
-<!-- https://github.com/yanglr/yanglr.github.io/blob/master/assets/images/authors/byavatar.jpg?raw=true -->
+<!-- https://github.com/andrewyghub/andrewyghub.github.io/blob/master/assets/images/authors/byavatar.jpg?raw=true -->
 
 <br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yanglr&show_icons=true&theme=radical&hide=issues,contribs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=andrewyghub&show_icons=true&theme=radical&hide=issues,contribs)
 
-![GitHub followers](https://img.shields.io/github/followers/yanglr?color=red) ![profile-view](https://komarev.com/ghpvc/?username=yanglr&color=blue&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/andrewyghub?color=red) ![profile-view](https://komarev.com/ghpvc/?username=andrewyghub&color=blue&label=Profile+Views)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglr&layout=compact&hide=Visual+Basic+.NET)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewyghub&layout=compact&hide=Visual+Basic+.NET)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**yanglr/yanglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andrewyghub/andrewyghub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,22 +22,26 @@ Here are some ideas to get you started:
 - 👯 
 - 🤔 
 - 💬 
-- 📫 How to reach me: https://www.geekplayers.com
-- 😄 Pronouns: 大白技术控
+- 📫 How to reach me: https://andrewyghub.github.io
+- 😄 Pronouns: 技术控
 - ⚡ Fun fact: ...
 -->
 
 - 🔭 I’m currently working on WPF, XAML, UWP, math related stuff and .net core in depth currently.
 - 🌱 I’m currently learning `node.js`.
-- 📫 How to reach me: https://www.geekplayers.com
-- 😄 Pronouns: 大白技术控
+- 📫 How to reach me: https://andrewyghub.github.io
+- 😄 Pronouns: 技术控
 
-Blog: https://geekplayers.com
+Blog: https://andrewyghub.github.io
 
-Zhihu: http://www.zhihu.com/people/legege007
+Zhihu: http://www.zhihu.com/people/AndrewYG
 
 ☑ C# 
 
-☑ WPF
+☑ C++
 
-☑ PHP
+☑ JAVA
+
+☑ JAVASCRIPT
+
+☑ PYTHON
