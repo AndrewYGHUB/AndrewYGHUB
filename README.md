@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Andrew Yang] ,中文名 [石洋洋](https://andrewyghub.github.io)!
+### Hi there 👋, I'm [Andrew Yang] (https://andrewyghub.github.io)!
 
 <a title="Hits" target="_blank" href="https://github.com/andrewyghub/andrewyghub"> </a>
 <!-- <img width="100" height="100"  src="https://github.com/andrewyghub/andrewyghub.github.io/assets/img/user.png"> -->
