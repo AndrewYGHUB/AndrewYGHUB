@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Andrew Yang](https://andrewyghub.github.io)!
 
-<a title="Hits" target="_blank" href="https://github.com/andrewyghub/andrewyghub"><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/andrewyghub/andrewyghub.github.io/assets/images/authors/byavatar.jpg"></a>
+<a title="Hits" target="_blank" href="https://github.com/andrewyghub/andrewyghub"><img width="100" height="100" src="https://github.com/andrewyghub/andrewyghub.github.io/assets/img/user.png"></a>
 
 <!-- https://github.com/andrewyghub/andrewyghub.github.io/blob/master/assets/images/authors/byavatar.jpg?raw=true -->
 
