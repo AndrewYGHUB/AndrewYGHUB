@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on WPF, XAML, UWP, math related stuff and .net core in depth currently.
+- 🔭 I’m currently working on React, XAML, .NETCORE, math related stuff and .net core in depth currently.
 - 🌱 I’m currently learning `node.js`.
 - 📫 How to reach me: https://andrewyghub.github.io
 - 😄 Pronouns: 技术控
