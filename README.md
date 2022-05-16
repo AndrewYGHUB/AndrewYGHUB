@@ -1,12 +1,12 @@
 
 ### Hi there 👋, I'm [Andrew Yang] (https://andrewyghub.github.io)!
 
-<a href="https://app.daily.dev/AndrewYang"><img src="https://api.daily.dev/devcards/50664493ee144280b67af0d2c621892f.png?r=1j1" width="400" alt="AndrewYG's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AndrewYGHUB/AndrewYGHUB/blob/master/devcard.svg" width="400" alt="AndrewYG's Dev Card"/></a>
+
 <a title="Hits" target="_blank" href="https://github.com/andrewyghub/andrewyghub"> </a>
 <!-- <img width="100" height="100"  src="https://github.com/andrewyghub/andrewyghub.github.io/assets/img/user.png"> -->
 
 <!-- https://github.com/andrewyghub/andrewyghub.github.io/blob/master/assets/images/authors/byavatar.jpg?raw=true -->
-
 
 <br/>
 
