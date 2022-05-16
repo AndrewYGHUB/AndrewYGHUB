@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm [Andrew Yang] (https://andrewyghub.github.io)!
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AndrewYGHUB/AndrewYGHUB/blob/main/devcard.svg" width="400" alt="AndrewYG's Dev Card"/></a>
+<a href="https://app.daily.dev/AndrewYang"><img src="https://github.com/AndrewYGHUB/AndrewYGHUB/blob/main/devcard.svg" width="400" alt="AndrewYG's Dev Card"/></a>
 
 <a title="Hits" target="_blank" href="https://github.com/andrewyghub/andrewyghub"> </a>
 <!-- <img width="100" height="100"  src="https://github.com/andrewyghub/andrewyghub.github.io/assets/img/user.png"> -->
