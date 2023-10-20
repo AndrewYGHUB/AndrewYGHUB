@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 Blog: https://andrewyghub.github.io
 
-Zhihu: http://www.zhihu.com/people/AndrewYG
+Zhihu: [http://www.zhihu.com/people/AndrewYG](https://www.zhihu.com/people/andrewyg)
 
 ☑ C# 
 
