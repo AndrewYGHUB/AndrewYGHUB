@@ -46,6 +46,9 @@ Zhihu: [http://www.zhihu.com/people/AndrewYG](https://www.zhihu.com/people/andre
 
 ☑ JAVA
 
+☑ Golang
+
 ☑ JAVASCRIPT
 
 ☑ PYTHON
+
